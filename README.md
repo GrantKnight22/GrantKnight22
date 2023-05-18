@@ -1,16 +1,14 @@
-### Hi there 👋
+# Grant Knight🔋
 
-<!--
-**GrantKnight22/GrantKnight22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my python project using NASA's API
+- 🌱 I’m currently learning OOP with Java
+- ⚡ Fun fact: I solve rubiks cubes
 
-Here are some ideas to get you started:
+```
+{
+  "firstName": "Grant",
+  "lastName": "Knight",
+}
+```
+![alt text](https://media.giphy.com/media/xT39D4YVlVpP4zvgIw/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
