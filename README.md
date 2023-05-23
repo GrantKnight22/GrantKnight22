@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my python project using NASA's API
 - 🌱 I’m currently learning OOP with Java
-- 🧮 Fun fact: I solve rubiks cubes
+- 🧮 Fun fact: I love solving rubiks cubes🧩 and baseball⚾️
 
 ```
 {
