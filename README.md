@@ -1,4 +1,4 @@
-# Grant Knight🔋
+# Grant Knight
 
 - 🔭 I’m currently working on my python project using NASA's API
 - 🌱 I’m currently learning OOP with Java
